@@ -1,7 +1,10 @@
 {
-  "name": "Ultra DevTools",
-  "description": "Asdasd asdasd",
-  "uuid": "ultradetool@fernandohcorrea.com.br",
+  "name": "Ultra DevTool",
+  "description": "Ultra DevTool",
+  "uuid": "ultradevtool@fernandohcorrea.com.br",
+  "url": "https://github.com/fernandohcorrea/gnome-shell-extension-ultradevtool",
+  "gettext-domain": "ultra-devtools",
+  "settings-schema": "org.gnome.shell.extensions.ultra-devtool",
   "shell-version": [
     "45"
   ]
